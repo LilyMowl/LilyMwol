@@ -30,14 +30,14 @@ Project created by <a href="https://github.com/NKMODS">NKMODS</a> to make it pub
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
   
-### The Hard Method
+### The Hard Method [ NOT RECOMMENDED! ]
 ```js
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git 
-$ cd LILY-MOWL
+$ git clone https://github.com/NKMODS/LilyMwol
+$ cd LilyMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -46,8 +46,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone 
-$ cd LILY-MOWL
+$ git clone https://github.com/NKMODS/LilyMwol
+$ cd LilyMwol
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -78,6 +78,5 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
 
 
